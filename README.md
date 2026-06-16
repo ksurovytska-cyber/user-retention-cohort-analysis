@@ -26,4 +26,4 @@ This project analyzes user retention using cohort analysis. The goal was to comp
 Created an interactive cohort analysis report that shows user retention dynamics and compares acquisition quality between promo and organic users.
 
 # Visual Report
-Google Sheets: [paste your Google Sheets link here](https://docs.google.com/spreadsheets/d/1GMsfCnc58bXTaBS2NLveDl6lXZh6B1Qg-jrvtUfPCJ0/edit?usp=sharing)
+Google Sheets: [Google Sheets link](https://docs.google.com/spreadsheets/d/1GMsfCnc58bXTaBS2NLveDl6lXZh6B1Qg-jrvtUfPCJ0/edit?usp=sharing)
